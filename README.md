@@ -1,10 +1,10 @@
-# 🧠 Breast Cancer Detection Using Deep Learning (VGG16)
+#  Breast Cancer Detection Using Deep Learning (VGG16)
 
 This project uses deep learning and transfer learning techniques to detect breast cancer from CT scan images. The model is built using the VGG16 architecture and implemented in a Google Colab notebook for accessibility and ease of use.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 - **Model**: VGG16 (Pretrained on ImageNet)
 - **Technique**: Transfer Learning + Fine-tuning
@@ -14,19 +14,19 @@ This project uses deep learning and transfer learning techniques to detect breas
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 
 ---
 
-## 🔗 Google Colab
+##  Google Colab
 
 You can directly run this project in Colab:  
-👉 [Open in Google Colab]()
+👉 [Open in Google Colab](https://colab.research.google.com/github/Gayathiri2/Breast-cancer-prediction-dl-model/blob/main/VGG16_Final.ipynb)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -36,7 +36,7 @@ You can directly run this project in Colab:
 
 ---
 
-## 📊 Project Highlights
+##  Project Highlights
 
 - Preprocessed the image dataset (resizing, normalization, augmentation)
 - Fine-tuned the VGG16 model for binary classification
@@ -46,10 +46,10 @@ You can directly run this project in Colab:
 
 ---
 
-## 🧪 How to Use
+##  How to Use
 
 1. **Open the Notebook in Google Colab**  
-   Click [here]()
+   Click [here](https://colab.research.google.com/github/Gayathiri2/Breast-cancer-prediction-dl-model/blob/main/VGG16_Final.ipynb)
 
 2. **Upload the Dataset**  
    - Place your images in two folders: `cancerous/` and `non-cancerous/`
@@ -64,14 +64,14 @@ You can directly run this project in Colab:
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Source**: Medical breast cancer image dataset
 > *Note: Dataset is included for educational/research purposes only.*
 
 ---
 
-## ✨ Results
+##  Results
 
 - **Model**: VGG16 + Custom Dense Layers
 - **Training Accuracy**: 98%
